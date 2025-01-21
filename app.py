@@ -33,4 +33,4 @@ if st.button("Prediksi"):
 # Footer
 st.write("---")
 st.write("Dibuat oleh: Muhammad Dzaki Zahirsyah")
-st.write("NIM: (Isi NIM Anda)")
+st.write("NIM: 2021230043")
